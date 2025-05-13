@@ -1,0 +1,1 @@
+{"name":"FoodDiary","short_name":"FoodDiary","description":"Дневник питания","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#FBF1E5","lang":"en","scope":"/","icons":[{"src":"/pwa-icon.png","sizes":"512x512","type":"image/png"}]}
